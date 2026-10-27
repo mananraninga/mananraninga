@@ -1,6 +1,6 @@
 # Manan Raninga
 
-I’m an aerospace student, starting in general engineering at Penn State. I care about defense and logistics technology that saves lives and makes daily life a bit safer — fewer casualties, better support for people on the ground, systems that help instead of just looking impressive.
+I’m an aerospace student, starting in general engineering at Penn State. I care about defense and logistics technology that saves lives and makes daily life a bit safer, fewer casualties, better support for people on the ground, systems that help instead of just looking impressive.
 
 What you see here is not a product and not a company. It’s student work I put in public so someone else can run it: one question, one limit, a chart, and a note on what I didn’t pretend to solve.
 
